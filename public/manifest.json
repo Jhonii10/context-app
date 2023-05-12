@@ -4,8 +4,8 @@
   "description":"Aplicacion hecha en react",
   "start_url": ".",
   "display": "standalone",
-  "theme_color": "#000000",
-  "background_color": "#FF0000",
+  "theme_color": "#7e1e1e",
+  "background_color": "#ffffff",
   "icons": [
     {
       "src": "windows11/SmallTile.scale-100.png",
